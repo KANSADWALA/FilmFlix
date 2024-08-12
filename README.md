@@ -68,7 +68,7 @@ pip install -r requirements.txt
     </li>
 
   
-<li><h3>Data Preparation</h3>
+<li><strong>Data Preparation: </strong>
 <p>The dataset used in this project is available on Kaggle. You need to download the dataset and place it in the appropriate directory:</p>
 <ol>
     <li>Download the dataset from Kaggle: <a href="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata" >TMDB 5000 Movies Dataset</a>.
@@ -86,7 +86,7 @@ pip install -r requirements.txt
   
 </li>
 
-<li><h3>Running the Project</h3>
+<li><strong>Running the Project</strong>
 <p>Once everything is set up, you can start to code in:</p>
 <pre><code class="bash">
 main.ipynb
