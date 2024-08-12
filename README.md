@@ -53,8 +53,10 @@ git clone https://github.com/yourusername/FilmFlix.git
 cd tweet-analysis
         </code></pre>
     </li>
-    <li><strong>Create a Virtual Environment:</strong>
-        <pre><code class="bash">
+
+  
+<li><strong>Create a Virtual Environment:</strong>
+  <pre><code class="bash">
 python3 -m venv venv
 source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
         </code></pre>
@@ -66,14 +68,14 @@ pip install -r requirements.txt
     </li>
 
   
-<h3>Data Preparation</h3>
+<li><h3>Data Preparation</h3>
 <p>The dataset used in this project is available on Kaggle. You need to download the dataset and place it in the appropriate directory:</p>
 <ol>
     <li>Download the dataset from Kaggle: <a href="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata" >TMDB 5000 Movies Dataset</a>.
     </li>
     <li>Extract the dataset and place it in the <code>data/</code> directory inside the project folder.</li>
 </ol>  
-
+</li>
     
 
   <li><strong>Navigate to the project directory:</strong>
@@ -83,12 +85,12 @@ pip install -r requirements.txt
   </code></pre>
   </li>
 
-<h3>Running the Project</h3>
+<li><h3>Running the Project</h3>
 <p>Once everything is set up, you can start to code in:</p>
 <pre><code class="bash">
 main.ipynb
 </code></pre>
-
+</li>
 
   <li><strong>Run the Streamlit app:</strong>
       <pre><code class="bash">
