@@ -76,6 +76,12 @@ pip install -r requirements.txt
   streamlit run app.py
       </code></pre>
     </li> 
+
+  <h3>Usage:</h3>
+  <ol>
+    <LI>Enter a movie title in the Input box or search the movie in Search Box.</LI>
+    <LI>The system will display the top 5 recommended movies based on similarity.</LI>
+  </ol>
 </ol>
 
 
