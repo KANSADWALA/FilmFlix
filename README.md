@@ -78,12 +78,13 @@ pip install -r requirements.txt
 </li>
     
 
-  <li><strong>Navigate to the project directory:</strong>
-      <pre><code class="bash">
+<li><strong>Navigate to the project directory:</strong>
+  <pre><code class="bash">
   cd movie-recommender-system
 
   </code></pre>
-  </li>
+  
+</li>
 
 <li><h3>Running the Project</h3>
 <p>Once everything is set up, you can start to code in:</p>
@@ -92,11 +93,11 @@ main.ipynb
 </code></pre>
 </li>
 
-  <li><strong>Run the Streamlit app:</strong>
-      <pre><code class="bash">
+<li><strong>Run the Streamlit app:</strong>
+  <pre><code class="bash">
   streamlit run app.py
-      </code></pre>
-    </li> 
+  </code></pre>
+</li> 
 
   <h3>Usage:</h3>
   <ol>
