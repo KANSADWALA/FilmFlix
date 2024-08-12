@@ -154,6 +154,7 @@ main.ipynb
 </ul>
 
 <strong>Accurate Movie Recommendations:</strong> 
+<ul>
   <li><strong>Solution:</strong> Used cosine similarity to measure likeness between movies, ensuring the recommendations are precise and relevant.
 </li>
 </ul>
