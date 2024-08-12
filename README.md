@@ -80,7 +80,7 @@ pip install -r requirements.txt
 <h3>Running the Project</h3>
 <p>Once everything is set up, you can start to code in:</p>
 <pre><code class="bash">
-main.ipynb
+ main.ipynb
 </code></pre>
 
 
