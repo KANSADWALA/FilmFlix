@@ -112,7 +112,7 @@ main.ipynb
 
 <pre><code class="bash">
 
-  movie-recommender-system/
+movie-recommender-system/
 │
 ├── data/
 |   └── kaggle.json 
