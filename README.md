@@ -120,17 +120,17 @@ main.ipynb
 │   └── tmdb_5000_credits.csv         # The Kaggle dataset file  
 |  
 ├── models/
-│   └── movie_list.pkl  # Serialized model file
+│   └── movie_list.pkl                # Serialized model file
 │   └── similarity.pkl
 |  
 ├── notebooks/
-│   └── main.ipynb          # Jupyter Notebook to code for Movie-Recommender-system
+│   └── main.ipynb                    # Jupyter Notebook to code for Movie-Recommender-system
 |
-├── app.py                  # Main Streamlit application
+├── app.py                            # Main Streamlit application
 │
-├── requirements.txt        # Required Python packages
+├── requirements.txt                  # Required Python packages
 │
-└── README.md               # Project overview
+└── README.md                         # Project overview
 
 </code></pre>
 
