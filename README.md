@@ -109,7 +109,55 @@ main.ipynb
 
 ## Project Structure
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<p>The directory structure of the project is as follows:</p>
+
+<pre><code class="bash">
+
+  movie-recommender-system/
+│
+├── data/
+|   └── kaggle.json 
+│   └── tmdb_5000_movies.csv          # The Kaggle dataset file
+│   └── tmdb_5000_credits.csv         # The Kaggle dataset file  
+|  
+├── models/
+│   └── movie_list.pkl  # Serialized model file
+│   └── similarity.pkl
+|  
+├── notebooks/
+│   └── main.ipynb          # Jupyter Notebook to code for Movie-Recommender-system
+|
+├── app.py                  # Main Streamlit application
+│
+├── requirements.txt        # Required Python packages
+│
+└── README.md               # Project overview
+
+</code></pre>
+
+</body>
+</html>
+
 ## Challenges and Solutions
+
+<strong>High Dimensionality in Feature Vectors:</strong> 
+<ul>
+  <li><strong>Solution:</strong> Implemented the Bag of Words technique, which effectively reduced the complexity and allowed the system to handle the vector space efficiently.</li>
+</ul>
+
+<strong>Accurate Movie Recommendations:</strong> 
+  <li><strong>Solution:</strong> Used cosine similarity to measure likeness between movies, ensuring the recommendations are precise and relevant.
+</li>
+</ul>
+
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
