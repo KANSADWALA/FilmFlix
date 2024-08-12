@@ -68,7 +68,7 @@ pip install -r requirements.txt
     </li>
 </ol>
   
-<strong>Data Preparation: </strong>
+<h3>Data Preparation: </h3>
 <p>The dataset used in this project is available on Kaggle. You need to download the dataset and place it in the appropriate directory:</p>
 <ol>
     <li>Download the dataset from Kaggle: <a href="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata" >TMDB 5000 Movies Dataset</a>.
@@ -78,7 +78,7 @@ pip install -r requirements.txt
 
     
 
-<strong>Navigate to the project directory:</strong>
+<h3>Navigate to the project directory:</h3>
   <pre><code class="bash">
   cd movie-recommender-system
 
