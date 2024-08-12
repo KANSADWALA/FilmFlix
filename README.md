@@ -16,10 +16,10 @@ The Content-Based Movie Recommender System is designed to suggest movies based o
 <li><strong>Programming Languages:</strong> Python</li>
   
   <li><strong>Libraries:</strong> 
-  <ul> <li><strong>numpy</strong> for numerical operations</li>
-       <li><strong>pandas</strong> for data manipulation</li>
-       <li><strong>scikit-learn</strong>  for machine learning algorithms and vectorization</li>
-       <li><strong>Streamlit</strong> for building the interactive user interface</li>
+  <ul> <li><strong>numpy</strong> for numerical operations.</li>
+       <li><strong>pandas</strong> for data manipulation.</li>
+       <li><strong>scikit-learn</strong>  for machine learning algorithms and vectorization.</li>
+       <li><strong>Streamlit</strong> for building the interactive user interface.</li>
   </ul>
   </li>
   
