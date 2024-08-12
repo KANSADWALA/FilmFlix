@@ -1,4 +1,4 @@
-# 🎬 FlimFlix
+# 🎬 FilmFlix
 
 ## Overview
 The Content-Based Movie Recommender System is designed to suggest movies based on the similarity of their features. Using a dataset of 5,000 movies from Kaggle, this system analyzes various aspects of each movie to generate recommendations. The project focuses on enhancing the user experience through a Streamlit interface, making it easy for users to discover movies similar to their favorites.
