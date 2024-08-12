@@ -76,34 +76,26 @@ pip install -r requirements.txt
     <li>Extract the dataset and place it in the <code>data/</code> directory inside the project folder.</li>
 </ol>  
 
-    
-
-<h3>Navigate to the project directory:</h3>
-  <pre><code class="bash">
-  cd movie-recommender-system
-
-  </code></pre>
   
-<ol>
-<li><strong>Running the Project</strong>
+<h3>Running the Project</h3>
 <p>Once everything is set up, you can start to code in:</p>
 <pre><code class="bash">
 main.ipynb
 </code></pre>
-</li>
 
-<li><strong>Run the Streamlit app:</strong>
+
+<h3>Run the Streamlit app:</h3>
   <pre><code class="bash">
   streamlit run app.py
   </code></pre>
-</li> 
+
 
   <h3>Usage:</h3>
   <ol>
     <LI>Enter a movie title in the Input box or search the movie in Search Box.</LI>
     <LI>The system will display the top 5 recommended movies based on similarity.</LI>
   </ol>
-</ol>
+
 
 
 ## Project Structure
