@@ -5,7 +5,7 @@ The Content-Based Movie Recommender System is designed to suggest movies based o
 
 ## Features
 <ul>
-  <li><strong>Data Preprocessing & Feature Engineering:</strong> Comprehensive preprocessing and feature engineering were performed by creating tags for each movie, which were then transformed into vectors using the Bag of Words technique.</li>
+  <li><h4>Data Preprocessing & Feature Engineering:</h4> Comprehensive preprocessing and feature engineering were performed by creating tags for each movie, which were then transformed into vectors using the Bag of Words technique.</li>
   <li><strong>Movie Recommendations:</strong> Utilizes cosine similarity to recommend the top 5 movies based on likeness, providing personalized suggestions.
 </li>
   <li><strong>Interactive User Interface:</strong>  A user-friendly interface built with Streamlit, allowing users to input their favorite movies and receive tailored recommendations.</li>
