@@ -50,7 +50,7 @@ The Content-Based Movie Recommender System is designed to suggest movies based o
     <li><strong>Clone the Repository:</strong>
         <pre><code class="bash">
 git clone https://github.com/yourusername/FilmFlix.git
-cd tweet-analysis
+cd movie-recommender-system
         </code></pre>
     </li>
 
